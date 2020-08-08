@@ -1,2 +1,8 @@
 # ignore macOS meta
 .DS_Store
+
+# DROBNI
+
+dzi_c0_files/
+dzi_c1_files/
+
